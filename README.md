@@ -24,7 +24,7 @@ ChatGPT中文版镜像站是由第三方搭建的ChatGPT平台，提供与官网
 以下是我们根据**功能、稳定性、免费额度**等多个维度精心挑选的国内优质ChatGPT镜像站点：
 
 ### **1. 蛇语AI**
-- **访问地址**：[snakegpt.chat](https://snakegpt.chat)
+- **访问地址**：[snakegpt.com.cn](https://snakegpt.com.cn)
 - **支持功能**：GPT-4、GPT-3.5、MJ绘图
 - **亮点**：
   - 稳定性强，适合长时间使用。
@@ -123,4 +123,4 @@ ChatGPT中文版镜像站为国内用户提供了便捷的使用途径，无需�
 **附加关键词优化**：ChatGPT中文版、GPT-4国内镜像站、无需翻墙的ChatGPT、免费ChatGPT中文版镜像。
 
 现在就访问推荐的镜像站，开启属于您的智能对话时代吧！
-                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                     
